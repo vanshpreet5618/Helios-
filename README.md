@@ -1,5 +1,6 @@
 # Helios-
 A business intelligence platform that unifies operational and market data to provide predictive insights and AI-driven recommendations for business strategy.
+
 🚀 Features
 - ETL Pipeline:Automated data ingestion from multiple sources into a centralized PostgreSQL database.
 - Predictive Analytics: Machine learning models (XGBoost, Prophet) for customer churn prediction and sales forecasting.
