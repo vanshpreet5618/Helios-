@@ -1,0 +1,14 @@
+# .gitignore
+
+# Ignore the environment file that contains secrets
+.env
+
+# Ignore the CSV data file
+*.csv
+
+# Ignore the virtual environment folder
+venv/
+
+# Common cache and log files
+__pycache__/
+*.pyc
